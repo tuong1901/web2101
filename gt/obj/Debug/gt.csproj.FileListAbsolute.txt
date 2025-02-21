@@ -1,0 +1,16 @@
+C:\Users\tuong\source\repos\gt\gt\bin\Debug\gt.exe.config
+C:\Users\tuong\source\repos\gt\gt\bin\Debug\gt.exe
+C:\Users\tuong\source\repos\gt\gt\bin\Debug\gt.pdb
+C:\Users\tuong\source\repos\gt\gt\bin\Debug\EntityFramework.dll
+C:\Users\tuong\source\repos\gt\gt\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tuong\source\repos\gt\gt\bin\Debug\EntityFramework.xml
+C:\Users\tuong\source\repos\gt\gt\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tuong\source\repos\gt\gt\obj\Debug\gt.csproj.AssemblyReference.cache
+C:\Users\tuong\source\repos\gt\gt\obj\Debug\gt.Properties.Resources.resources
+C:\Users\tuong\source\repos\gt\gt\obj\Debug\gt.csproj.GenerateResource.cache
+C:\Users\tuong\source\repos\gt\gt\obj\Debug\gt.csproj.CoreCompileInputs.cache
+C:\Users\tuong\source\repos\gt\gt\obj\Debug\gt.csproj.Up2Date
+C:\Users\tuong\source\repos\gt\gt\obj\Debug\gt.exe
+C:\Users\tuong\source\repos\gt\gt\obj\Debug\gt.pdb
+C:\Users\tuong\source\repos\gt\gt\obj\Debug\gt.Migrations.Initial.resources
+C:\Users\tuong\source\repos\gt\gt\obj\Debug\gt.Form1.resources
